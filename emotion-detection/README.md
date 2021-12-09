@@ -1,4 +1,4 @@
-Вуб-сервис emotion-detection
+Веб-сервис emotion-detection
 ============================
 
 Работаем с библиотеками FastAPI, pydantic, transformers
