@@ -8,7 +8,7 @@
 https://huggingface.co/cointegrated/rubert-tiny2-cedr-emotion-detection
 
 1. Запускаем сервер.
-  Инициализируется модель распознавания, создается классификатор из объекта pipeline типа "text-classification".
+  Инициализируется модель распознавания, создается классификатор из объекта pipeline "text-classification".
   Запускается application FastAPI.
 
 2. POST-запрос принимает на вход словарь типа {&quot;text&quot;: &quot;текст для анализа&quot;}.
